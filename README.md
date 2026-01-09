@@ -13,7 +13,7 @@ Mechanical Engineering student focused on CAD, reverse engineering, and mechanic
 - Modeled full mechanical assembly and gearbox in SolidWorks  
 - Validated design through iterative 3D-printed prototypes  
 
-👉 **[View Full Engineering Project PDF](file:///C:/Users/johan/Downloads/Engineering%20Portfolio%20-%20Johan%20Cruz%20(1).pdf)**
+👉 **[View Full Engineering Project PDF](https://drive.google.com/file/d/1lt79Jpt8-f1IT92Su-vxbjj5FB9mCUr_/view?usp=sharing)**
 
 ---
 
