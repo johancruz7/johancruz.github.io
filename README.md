@@ -1,14 +1,26 @@
-Johan Cruz — Mechanical Engineering Portfolio
+# Johan Cruz — Mechanical Engineering Portfolio
 
-PROJECTS
+Mechanical Engineering student focused on CAD, reverse engineering, and mechanical design.
 
-Pullback Toy Car — Reverse Engineering & Prototyping
-• CAD (SolidWorks), Gear Trains, 3D Printing
-• Reverse engineered spring-driven drivetrain
-View Project PDF : <img width="1823" height="881" alt="image" src="https://github.com/user-attachments/assets/32c58408-e8ba-46aa-9bab-3ced95bbc8bd" />
+---
 
+## Projects
 
+### 🔧 Pullback Toy Car — Reverse Engineering & Prototyping
+**Tools:** SolidWorks, Gear Trains, 3D Printing  
 
-BMW Interior Trim Redesign (In Progress)
-• Reverse Engineering, Tolerancing
-[ Coming Soon ]
+- Reverse engineered a spring-driven pullback drivetrain  
+- Modeled full mechanical assembly and gearbox in SolidWorks  
+- Validated design through iterative 3D-printed prototypes  
+
+👉 **[View Full Engineering Project PDF](file:///C:/Users/johan/Downloads/Engineering%20Portfolio%20-%20Johan%20Cruz%20(1).pdf)**
+
+---
+
+### 🚗 BMW Interior Trim Redesign *(In Progress)*
+**Tools:** Reverse Engineering, Tolerancing  
+
+- Redesigning missing/damaged interior trim components  
+- Measuring existing geometry and iterating CAD for fit and strength  
+
+_Coming soon_
