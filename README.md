@@ -6,7 +6,7 @@ Mechanical Engineering student focused on CAD, reverse engineering, and mechanic
 
 ## Projects
 
-### 🔧 Pullback Toy Car — Reverse Engineering & Prototyping
+###  Pullback Toy Car — Reverse Engineering & Prototyping
 **Tools:** SolidWorks, Gear Trains, 3D Printing  
 
 - Reverse engineered a spring-driven pullback drivetrain  
@@ -17,10 +17,10 @@ Mechanical Engineering student focused on CAD, reverse engineering, and mechanic
 
 ---
 
-### 🚗 BMW Interior Trim Redesign *(In Progress)*
-**Tools:** Reverse Engineering, Tolerancing  
+### ⚙ Functional Differential – CAD Design & Prototyping
+**Tools:** SolidWorks, Mechanical Assemblies, 3D Printing
 
-- Redesigning missing/damaged interior trim components  
-- Measuring existing geometry and iterating CAD for fit and strength  
-
-_Coming soon_
+- Designed and modeled a functional open differential mechanism in SolidWorks
+- Implemented constrained assemblies and gear mates to simulate differential motion
+- Validated kinematic behavior through iterative 3D printing and physical assembly
+[View Project PDF / Video](https://www.linkedin.com/posts/johan-cruz-4bb270395_functional-differential-designed-in-solidworks-ugcPost-7425798571607613440-FB06?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAGEJYc8BKyDB8erZ7Zuah7sIfY-XKXoWFYE)
